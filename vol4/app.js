@@ -20,7 +20,7 @@ addButton.addEventListener("click", function() {
 
   meetingsList.appendChild(meetingCard);
 
-  // Clear input fields
+  // volod
   document.getElementById("meeting-name").value = "";
   document.getElementById("meeting-place").value = "";
   document.getElementById("meeting-time").value = "";
